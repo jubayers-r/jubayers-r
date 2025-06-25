@@ -33,12 +33,10 @@
 - 📙 Check out my [resume](#)
 - 💭 I love exploring **Web3**, **Cybersecurity**, and reading some **non-fiction**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jubayers-r&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark)
-
 </div>
 
 <div style="min-width: 200px; margin-left: 20px;">
-  <img src="https://i.ibb.co/CKJP0gYw/short-banner.gif" alt="short-banner" width="250"/>
+  <img src="https://i.ibb.co/whC07dxt/hollor-knight3.gif" alt="hollow-knight" width="250"/>
 </div>
 
 </div>
@@ -76,11 +74,9 @@
 
 </div>
 
-<div style="min-width: 200px; margin-left: 20px;">
-  <img src="https://i.ibb.co/whC07dxt/hollor-knight3.gif" alt="hollow-knight" width="250"/>
 </div>
 
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jubayers-r&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark)
 
 ---
 
