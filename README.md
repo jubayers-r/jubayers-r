@@ -24,7 +24,7 @@ _𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:
 
 <div style="flex: 1; min-width: 300px;">
 
-<img align="right" src="https://i.ibb.co/whC07dxt/hollor-knight3.gif" width="250" />
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
 
 ### ⚡️ A Few Quick Facts
 
