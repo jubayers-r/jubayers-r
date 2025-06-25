@@ -33,7 +33,7 @@ _𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:
 - 🌱 Currently diving deeper into: **Next.js**, **TypeScript**, **Prisma**, **DevOps**
 - 💡 Constantly learning and building alongside exploring the beauty of nature
 - 📙 Check out my [resume](#)
-- 💭 I love exploring **Web3**, **Cybersecurity**, and reading some **non-fiction**
+- 💭 I love exploring **Web3**, **Cybersecurity**, and read **non-fiction**
 
 </div>
 
