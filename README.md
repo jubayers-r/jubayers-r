@@ -20,38 +20,34 @@
 
 ---
 
+<div style="display: flex; align-items: start; justify-content: space-between; flex-wrap: wrap;">
+
+<div style="flex: 1; min-width: 300px;">
+
 ### ⚡️ A Few Quick Facts
 
- <table> <tr> <td width="66%">
- <ul>
-<li>🧑‍🎓 I’m a Computer Science student and a self-taught full-stack developer</li>
+- 🧑‍🎓 I’m a **Computer Science student** and a **self-taught full-stack developer**
+- 🚧 Currently working on: **[ZAP-SHIFT](#)** — a portfolio project
+- 🌱 Currently diving deeper into: **Next.js**, **TypeScript**, **Prisma**, **DevOps**
+- 💡 Constantly learning and building alongside exploring the beauty of nature
+- 📙 Check out my [resume](#)
+- 💭 I love exploring **Web3**, **Cybersecurity**, and reading some **non-fiction**
 
-<li>🚧 Currently working on: <a href="#">ZAP-SHIFT</a> — a portfolio project</li>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jubayers-r&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark)
 
-<li>🌱 Currently diving deeper into: Next.js, TypeScript, Prisma, DevOps</li>
+</div>
 
-<li>💡 Constantly learning and building alongside exploring the beauty of nature.</li>
+<div style="min-width: 200px; margin-left: 20px;">
+  <img src="https://i.ibb.co/CKJP0gYw/short-banner.gif" alt="short-banner" width="250"/>
+</div>
 
-<li>📙 Check out my <a href="#">resume</a>.</li>
+</div>
 
-<li>💭 I love exploring Web3, Cybersecurity and Reading some non-fiction stuff</li>
+<div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap;">
 
-</ul>
-<!-- remove stats asap assignment finishes -->
-<img src="https://github-readme-stats.vercel.app/api?username=jubayers-r&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
-
-</td>
-<td width="34%" align="right">
-    <img src="https://i.ibb.co/CKJP0gYw/short-banner.gif" alt="short-banner" width="70%"/>
-  </td> </tr> </table>
+<div style="flex: 1; min-width: 300px;">
 
 ---
-
-<table>
-<tr>
-
-  <!-- Left: Badges (3/4 width) -->
-  <td width="75%">
 
 ### 🛠️ Some tools I use
 
@@ -68,39 +64,30 @@
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](https://github.com/jubayers-r)
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](https://github.com/jubayers-r)
-
-<!-- [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)](https://github.com/jubayers-r)
-[![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](https://github.com/jubayers-r)
-[![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000)](https://github.com/jubayers-r) -->
-
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=red)](https://github.com/jubayers-r)
 [![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)](https://github.com/jubayers-r)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](https://github.com/jubayers-r)
 
-  </td>
+<!-- Optional: Uncomment to re-add tools later
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)](https://github.com/jubayers-r)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](https://github.com/jubayers-r)
+[![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000)](https://github.com/jubayers-r)
+-->
 
-   <!-- Right: GIF (1/4 width) -->
-  <td width="25%" align="center">
-    <img src="https://i.ibb.co/whC07dxt/hollor-knight3.gif" alt="hollow-knight" width="100%" />
-  </td>
-</tr>
-</table>
+</div>
 
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/jubayers-r/github-stats-transparent/output/generated/languages.svg" />
-</p> -->
+<div style="min-width: 200px; margin-left: 20px;">
+  <img src="https://i.ibb.co/whC07dxt/hollor-knight3.gif" alt="hollow-knight" width="250"/>
+</div>
+
+</div>
 
 ---
 
 ### 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jubayersh)
-[![X](https://img.shields.io/badge/-X-black?style=flat&logo=twitter&logoColor=white)](https://x.com/jubayersh)
+[![X](https://img.shields.io/badge/-X-black?style=flat&logo=twitter&logoColor=white)](https://x.com/jubayers-r)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=internet-explorer&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:jubayer.shikder.007@gmail.com)
 
----
-
-### 📅 Last Updated
-
-_Last manually updated on June 25, 2025._
