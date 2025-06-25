@@ -1,5 +1,5 @@
 <!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jubayers-r&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
+  <img src="https://github-stats-69.vercel.app/api?username=jubayers-r&show_icons=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
 </p> -->
 
 <!-- Banner -->
@@ -76,7 +76,7 @@ _𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:
 
 </div>
 
-![GitHub Stats](https://github-stats-69.vercel.app/api?username=jubayers-r&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1&theme=dark)
+<!-- ![GitHub Stats](https://github-stats-69.vercel.app/api?username=jubayers-r&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1&theme=dark) -->
 
 ---
 
