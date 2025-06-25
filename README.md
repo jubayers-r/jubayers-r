@@ -16,13 +16,15 @@
 
 <p>I'm a passionate full-stack web developer with a strong curiosity for building scalable, modern web applications. While pursuing my degree in Computer Science, I’m continuously expanding my skills and exploring new technologies. I'm actively looking for a team where I can contribute meaningfully and grow alongside experienced developers. My current focus includes mastering Next.js, TypeScript, and DevOps practices to build production-grade applications.</p>
 
-*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `25-06-2025` <!-- TODO: automate this -->
+_𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:_ `25-06-2025` <!-- TODO: automate this -->
 
 ---
 
 <div style="display: flex; align-items: start; justify-content: space-between; flex-wrap: wrap;">
 
 <div style="flex: 1; min-width: 300px;">
+
+<img align="right" src="https://i.ibb.co/whC07dxt/hollor-knight3.gif" width="250" />
 
 ### ⚡️ A Few Quick Facts
 
@@ -33,10 +35,6 @@
 - 📙 Check out my [resume](#)
 - 💭 I love exploring **Web3**, **Cybersecurity**, and reading some **non-fiction**
 
-</div>
-
-<div style="min-width: 200px; margin-left: 20px;">
-  <img src="https://i.ibb.co/whC07dxt/hollor-knight3.gif" alt="hollow-knight" width="250"/>
 </div>
 
 </div>
@@ -72,11 +70,13 @@
 [![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000)](https://github.com/jubayers-r)
 -->
 
-</div>
+<!-- ![](https://raw.githubusercontent.com/jubayers-r/github-stats-transparent/output/generated/languages.svg) -->
 
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jubayers-r&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark)
+</div>
+
+![GitHub Stats](https://github-stats-69.vercel.app/api?username=jubayers-r&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1&theme=dark)
 
 ---
 
@@ -86,4 +86,3 @@
 [![X](https://img.shields.io/badge/-X-black?style=flat&logo=twitter&logoColor=white)](https://x.com/jubayers-r)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=internet-explorer&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:jubayer.shikder.007@gmail.com)
-
