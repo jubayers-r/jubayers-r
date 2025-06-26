@@ -14,7 +14,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+A+Full+Stack+Web+Developer.">
 </p>
 
-<p>Full-stack web developer with a strong foundation in Computer Science and a passion for building scalable, modern applications. Currently focused on Next.js, TypeScript, and DevOps. Eager to contribute to a growth-oriented team and keep learning from experienced developers.</p>
+<p>I'm a full-stack web developer with a strong foundation in Computer Science and a passion for building modern, scalable applications.
+
+Right now, I’m exploring technologies like **Next.js**, **TypeScript**, and **DevOps** by working on personal projects and deepening my understanding of production-ready tools.
+
+I’m eager to contribute to a growth-oriented team where I can learn from experienced developers and make a real impact by building clean, functional solutions.</p>
 
 _𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:_ `26-06-2025` <!-- TODO: automate this -->
 
@@ -74,7 +78,7 @@ _𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:
 
 <!-- ![GitHub Stats](https://github-stats-69.vercel.app/api?username=jubayers-r&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1&theme=dark) -->
 
-<!-- 
+<!--
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jubayers-r&theme=radical" alt="GitHub Streak" /> -->
 
 ---
