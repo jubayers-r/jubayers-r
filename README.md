@@ -43,7 +43,7 @@ _𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; flex-wrap: wrap; text-align: center;">
 
-<div style="max-width: 900px; width: 100%;">
+<div style="width: 100%;">
 
 ### 🛠️ Some tools I use
 
@@ -74,15 +74,19 @@ _𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:
 
 <!-- ![GitHub Stats](https://github-stats-69.vercel.app/api?username=jubayers-r&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1&theme=dark) -->
 
+<!-- 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jubayers-r&theme=radical" alt="GitHub Streak" /> -->
+
 ---
 
 ### 🔗 Connect With Me
 
  <p>
-      <a href="https://linkedin.com/in/jubayersh"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
+      <a href="https://linkedin.com/in/jubayers-r"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
       <a href="https://x.com/jubayers-r"><img src="https://img.shields.io/badge/-X-black?style=flat&logo=twitter&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=internet-explorer&logoColor=white"></a>
       <a href="mailto:jubayer.shikder.007@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"></a>
+      <a href="mailto:jubayer.shikder.007@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=internet-explorer&logoColor=white"></a>
     </p>
 
 </div>
