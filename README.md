@@ -11,12 +11,12 @@
 <h1 align="center">👋 Hi! <b>Jubayer</b> here.✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+A+Full+Stack+Developer.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+A+Full+Stack+Web+Developer.">
 </p>
 
-<p>I'm a passionate full-stack web developer with a strong curiosity for building scalable, modern web applications. While pursuing my degree in Computer Science, I’m continuously expanding my skills and exploring new technologies. I'm actively looking for a team where I can contribute meaningfully and grow alongside experienced developers. My current focus includes mastering Next.js, TypeScript, and DevOps practices to build production-grade applications.</p>
+<p>Full-stack web developer with a strong foundation in Computer Science and a passion for building scalable, modern applications. Currently focused on Next.js, TypeScript, and DevOps. Eager to contribute to a growth-oriented team and keep learning from experienced developers.</p>
 
-_𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:_ `25-06-2025` <!-- TODO: automate this -->
+_𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:_ `26-06-2025` <!-- TODO: automate this -->
 
 ---
 
@@ -39,11 +39,11 @@ _𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:
 
 </div>
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap;">
-
-<div style="flex: 1; min-width: 300px;">
-
 ---
+
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; flex-wrap: wrap; text-align: center;">
+
+<div style="width: 100%;">
 
 ### 🛠️ Some tools I use
 
@@ -72,17 +72,19 @@ _𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:
 
 <!-- ![](https://raw.githubusercontent.com/jubayers-r/github-stats-transparent/output/generated/languages.svg) -->
 
-</div>
-
-</div>
-
 <!-- ![GitHub Stats](https://github-stats-69.vercel.app/api?username=jubayers-r&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1&theme=dark) -->
 
 ---
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jubayersh)
-[![X](https://img.shields.io/badge/-X-black?style=flat&logo=twitter&logoColor=white)](https://x.com/jubayers-r)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=internet-explorer&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:jubayer.shikder.007@gmail.com)
+ <p>
+      <a href="https://linkedin.com/in/jubayersh"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
+      <a href="https://x.com/jubayers-r"><img src="https://img.shields.io/badge/-X-black?style=flat&logo=twitter&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=internet-explorer&logoColor=white"></a>
+      <a href="mailto:jubayer.shikder.007@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"></a>
+    </p>
+
+</div>
+
+</div>
