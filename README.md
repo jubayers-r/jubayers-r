@@ -43,7 +43,7 @@ _𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; flex-wrap: wrap; text-align: center;">
 
-<div style="width: 100%;">
+<div style="max-width: 900px; width: 100%;">
 
 ### 🛠️ Some tools I use
 
