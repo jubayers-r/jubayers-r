@@ -102,6 +102,6 @@ I’m eager to contribute to a growth-oriented team where I can learn from exper
 </div>
 
 <!-- Quote Section -->
-<p align="right"><i>“The best error message is the one that never shows up.” – Thomas Fuchs</i></p>
+<p align="left"><i>“The best error message is the one that never shows up.” – Thomas Fuchs</i></p>
 
 </div>
