@@ -20,7 +20,7 @@ Right now, I’m exploring technologies like **Next.js**, **TypeScript**, and **
 
 I’m eager to contribute to a growth-oriented team where I can learn from experienced developers and make a real impact by building clean, functional solutions.</p>
 
-_𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:_ `26-06-2025` <!-- TODO: automate this -->
+<!-- _𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:_ `14-07-2025` TODO: automate this -->
 
 ---
 
@@ -33,10 +33,10 @@ _𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:
 ### ⚡️ A Few Quick Facts
 
 - 🧑‍🎓 I’m a **Computer Science student** and a **self-taught full-stack developer**
-- 🚧 Currently working on: **[ZAP-SHIFT](#)** — a portfolio project
+- 🚧 Currently working on: **[KindPaws](#)** — a pet adoptation platfrom
 - 🌱 Currently diving deeper into: **Next.js**, **TypeScript**, **Prisma**, **DevOps**
 - 💡 Constantly learning and building alongside exploring the beauty of nature
-- 📙 Check out my [resume](#)
+- 📙 Check out my [resume](https://drive.google.com/file/d/1F1eWXFRsZUMo4cgzFInKGlkr2Erh3dc1/)
 - 💭 I love exploring **Web3**, **Cybersecurity**, and read **non-fiction**
 
 </div>
