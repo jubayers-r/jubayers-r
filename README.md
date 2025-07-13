@@ -10,9 +10,12 @@
 <!-- Introduction -->
 <h1 align="center">👋 Hi! <b>Jubayer</b> here.✨</h1>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+A+Full+Stack+Web+Developer.">
 </p>
+
+
 
 <p>I'm a full-stack web developer with a strong foundation in Computer Science and a passion for building modern, scalable applications.
 
@@ -81,7 +84,10 @@ I’m eager to contribute to a growth-oriented team where I can learn from exper
 <!--
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jubayers-r&theme=radical" alt="GitHub Streak" /> -->
 
+
 ---
+
+
 
 ### 🔗 Connect With Me
 
@@ -94,5 +100,8 @@ I’m eager to contribute to a growth-oriented team where I can learn from exper
     </p>
 
 </div>
+
+<!-- Quote Section -->
+<p align="center"><i>“The best error message is the one that never shows up.” – Thomas Fuchs</i></p>
 
 </div>
