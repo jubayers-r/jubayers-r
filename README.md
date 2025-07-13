@@ -92,11 +92,10 @@ I’m eager to contribute to a growth-oriented team where I can learn from exper
 ### 🔗 Connect With Me
 
  <p>
-      <a href="https://linkedin.com/in/jubayers-r"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
+      <a href="https://jubayer-shikder.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=internet-explorer&logoColor=white"></a>
+      <a href="https://linkedin.com/in/jubayer-shikder"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
+      <a href="mailto:jubayer.shikder.007@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"></a>
       <a href="https://x.com/jubayers-r"><img src="https://img.shields.io/badge/-X-black?style=flat&logo=twitter&logoColor=white"></a>
-      <a href="mailto:jubayer.shikder.007@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"></a>
-      <a href="mailto:jubayer.shikder.007@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=internet-explorer&logoColor=white"></a>
     </p>
 
 </div>
