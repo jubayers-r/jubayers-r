@@ -87,6 +87,8 @@ I’m eager to contribute to a growth-oriented team where I can learn from exper
 
 ---
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jubayers-r&theme=tokyonight)
+
 
 
 ### 🔗 Connect With Me
@@ -96,6 +98,7 @@ I’m eager to contribute to a growth-oriented team where I can learn from exper
       <a href="https://linkedin.com/in/jubayer-shikder"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
       <a href="mailto:jubayer.shikder.007@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"></a>
       <a href="https://x.com/jubayers-r"><img src="https://img.shields.io/badge/-X-black?style=flat&logo=twitter&logoColor=white"></a>
+      <a href="https://wa.me/+8801866965359"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat"></a>
     </p>
 
 </div>
