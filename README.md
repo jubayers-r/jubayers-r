@@ -17,7 +17,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20for-Backend%20%26%20Deployment%20Work-238636?style=for-the-badge">
   <a href="https://jubayer-shikder.vercel.app"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=internet-explorer&logoColor=white"></a>
-  <a href="https://drive.google.com/file/d/1F1eWXFRsZUMo4cgzFInKGlkr2Erh3dc1/"><img src="https://img.shields.io/badge/Resume-google%20drive-red?style=for-the-badge&logo=googledrive&logoColor=white"></a>
+  <a href="https://drive.google.com/file/d/1ofoqrpx-5ZnX83C6OnwgJFEd3Mmfoxdy"><img src="https://img.shields.io/badge/Resume-google%20drive-red?style=for-the-badge&logo=googledrive&logoColor=white"></a>
 
 </p>
 
