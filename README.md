@@ -48,7 +48,7 @@ Stack used · Key technical decisions
 ## Stack
 
 **Runtime:** Bun · Node.js  
-**Core:** TypeScript · Express (v5) · NestJS  
+**Core:** TypeScript · Express (v5)
 **Validation:** Zod · zod-to-openapi  
 **Databases:** PostgreSQL · MongoDB · Prisma · Redis (ioredis)  
 **Queues:** BullMQ · Bull Board  
