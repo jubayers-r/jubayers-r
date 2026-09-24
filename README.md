@@ -26,6 +26,15 @@ Not just built. Documented, tested, monitored, and shipped.
 
 ---
 
+<!--
+## Featured Work
+
+**[Project Name]** — [one line on what it solves]  
+Architecture breakdown → [link to repo]
+
+---
+-->
+
 ## Stack
 
 **Core:** TypeScript · Node.js · Express · NestJS  
