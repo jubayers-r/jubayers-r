@@ -20,7 +20,8 @@ Not just built. Documented, tested, monitored, and shipped.
 - Node.js / TypeScript APIs behind nginx reverse proxy
 - PostgreSQL and MongoDB — schema design, migrations, query tuning
 - VPS provisioning — Linux hardening, SSL, PM2, Docker, CI/CD
-- Auth systems — JWT (Jose), role-based access, secure secret management, refresh token rotation
+- Auth systems — JWT (Jose), session-based authentication, 
+  refresh token rotation, role-based access, secure secret management
 - Rate limiting, request validation, Helmet security hardening
 - Background job queues — BullMQ with Bull Board monitoring dashboard
 - Transactional email — Nodemailer, Resend, React Email templates
