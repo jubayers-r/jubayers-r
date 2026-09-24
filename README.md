@@ -8,7 +8,8 @@ TypeScript · Express · PostgreSQL · Docker · Redis · AWS · nginx
 ## What I Build
 
 Production backend systems that hold under load —
-APIs, database architecture, auth, payments, real-time, rate limiting.
+APIs, database architecture, auth, payments, 
+real-time, job queues, rate limiting.
 
 Not just built. Documented, tested, monitored, and shipped.
 
@@ -19,10 +20,16 @@ Not just built. Documented, tested, monitored, and shipped.
 - Node.js / TypeScript APIs behind nginx reverse proxy
 - PostgreSQL and MongoDB — schema design, migrations, query tuning
 - VPS provisioning — Linux hardening, SSL, PM2, Docker, CI/CD
-- Auth systems — JWT, role-based access, secure secret management
-- Rate limiting, request validation, and API security hardening
-- Observability — Prometheus, logging, uptime monitoring
+- Auth systems — JWT (Jose), role-based access, secure secret management
+- Rate limiting, request validation, Helmet security hardening
+- Background job queues — BullMQ with Bull Board monitoring dashboard
+- Transactional email — Nodemailer, Resend, React Email templates
+- Structured logging — Pino with production-ready log levels
+- Error monitoring — Sentry integration
+- API documentation — OpenAPI via Zod, Scalar UI
+- Observability — Prometheus metrics, uptime monitoring
 - Zero-downtime deployments and production incident handling
+- Code quality enforcement — ESLint, Prettier, Husky pre-commit hooks
 
 ---
 
@@ -37,11 +44,17 @@ Architecture breakdown → [link to repo]
 
 ## Stack
 
-**Core:** TypeScript · Node.js · Express · NestJS  
-**Databases:** PostgreSQL · MongoDB · Prisma · Redis  
+**Runtime:** Bun · Node.js  
+**Core:** TypeScript · Express (v5) · NestJS  
+**Validation:** Zod · zod-to-openapi  
+**Databases:** PostgreSQL · MongoDB · Prisma · Redis (ioredis)  
+**Queues:** BullMQ · Bull Board  
+**Email:** Nodemailer · Resend · React Email  
 **Infrastructure:** Docker · nginx · Linux · PM2 · AWS (EC2, S3)  
-**Monitoring:** Prometheus · OpenAPI  
-**Testing:** Jest · integration and unit testing  
+**Monitoring:** Prometheus · Sentry · Pino  
+**API Docs:** OpenAPI · Scalar  
+**Testing:** Vitest · Supertest · coverage reports  
+**Code Quality:** ESLint · Prettier · Husky · lint-staged  
 
 ---
 
