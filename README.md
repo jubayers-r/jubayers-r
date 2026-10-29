@@ -1,26 +1,32 @@
-# Jubayer Shikder — Backend Engineer
+# Jubayer Shikder — Fullstack Engineer
 
-Backend systems built for real traffic.  
-TypeScript · Express · PostgreSQL · Docker · Redis · AWS · nginx
+Full products built for real traffic. Frontend to backend, deployed.
+TypeScript · Next.js · Express · PostgreSQL · Docker · Redis · AWS · nginx
 
 ---
 
 ## What I Build
 
-Production backend systems that hold under load —
-APIs, database architecture, auth, payments, 
-real-time, job queues, rate limiting.
+Production fullstack products that hold under load —
+Clean frontends, solid backends, deployed and monitored.
 
+Landing pages, SaaS products, internal tools, APIs.
 Not just built. Documented, tested, monitored, and shipped.
 
 ---
 
 ## Production Experience
 
+**Frontend**
+- Next.js and React applications — clean UI, fast load times, mobile first
+- Responsive design with Tailwind CSS and shadcn/ui
+- Figma to code — pixel perfect implementation
+
+**Backend**
 - Node.js / TypeScript APIs behind nginx reverse proxy
 - PostgreSQL and MongoDB — schema design, migrations, query tuning
 - VPS provisioning — Linux hardening, SSL, PM2, Docker, CI/CD
-- Auth systems — JWT (Jose), session-based authentication, 
+- Auth systems — JWT (Jose), session-based authentication,
   refresh token rotation, role-based access, secure secret management
 - Rate limiting, request validation, Helmet security hardening
 - Background job queues — BullMQ with Bull Board monitoring dashboard
@@ -34,19 +40,9 @@ Not just built. Documented, tested, monitored, and shipped.
 
 ---
 
-<!--
-
-## Featured Work
-
-**[Project Name]**  
-[One line on what problem it solves]  
-Stack used · Key technical decisions  
-→ [Repository link]
----
--->
-
 ## Stack
 
+**Frontend:** Next.js · React · Tailwind CSS · shadcn/ui  
 **Runtime:** Bun · Node.js  
 **Core:** TypeScript · Express (v5)  
 **Validation:** Zod · zod-to-openapi  
@@ -63,6 +59,6 @@ Stack used · Key technical decisions
 
 ## Open To
 
-Freelance contracts and remote backend roles.
+Freelance contracts and remote fullstack roles.
 
-[LinkedIn](https://linkedin.com/in/jubayer-shikder) · [Email](mailto:jubayer.shikder.007@gmail.com) · [X](https://x.com/jubayers-r)
+[LinkedIn](https://linkedin.com/in/jubayer-shikder) · [Email](mailto:hi@byjubayer.com) · [X](https://x.com/jubayers-r)
