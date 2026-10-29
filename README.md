@@ -1,6 +1,7 @@
 # Jubayer Shikder — Fullstack Engineer
 
 Full products built for real traffic. Frontend to backend, deployed.
+
 TypeScript · Next.js · Express · PostgreSQL · Docker · Redis · AWS · nginx
 
 ---
@@ -18,9 +19,15 @@ Not just built. Documented, tested, monitored, and shipped.
 ## Production Experience
 
 **Frontend**
-- Next.js and React applications — clean UI, fast load times, mobile first
-- Responsive design with Tailwind CSS and shadcn/ui
+- Next.js 16 and React 19 — modern, performant, production ready
+- Tailwind CSS v4 and shadcn/ui — clean, accessible, consistent UI
+- Zustand for state, TanStack Query for server state
+- React Hook Form and Zod — type safe, validated forms
+- Motion — smooth, professional animations
+- Recharts — data visualization
+- E2E testing with Playwright, unit testing with Bun
 - Figma to code — pixel perfect implementation
+- Dark mode, responsive, mobile first out of the box
 
 **Backend**
 - Node.js / TypeScript APIs behind nginx reverse proxy
@@ -42,18 +49,25 @@ Not just built. Documented, tested, monitored, and shipped.
 
 ## Stack
 
-**Frontend:** Next.js · React · Tailwind CSS · shadcn/ui  
 **Runtime:** Bun · Node.js  
-**Core:** TypeScript · Express (v5)  
-**Validation:** Zod · zod-to-openapi  
-**Databases:** PostgreSQL · MongoDB · Prisma · Redis (ioredis)  
-**Queues:** BullMQ · Bull Board  
+
+**Frontend:** Next.js 16 · React 19 · Tailwind CSS v4 · shadcn/ui · Motion · Zustand · TanStack Query · React Hook Form 
+
+**Backend:** TypeScript · Express.js · Prisma · Zod · BullMQ · Bull Board  
+
+**Databases:** PostgreSQL · MongoDB · Redis (ioredis)  
+
+**Auth & Security:** JWT · Helmet · Rate Limiting · Secure Secret Management  
+
 **Email:** Nodemailer · Resend · React Email  
-**Infrastructure:** Docker · nginx · Linux · PM2 · AWS (EC2, S3)  
-**Monitoring:** Prometheus · Sentry · Pino  
-**API Docs:** OpenAPI · Scalar  
-**Testing:** Vitest · Supertest · coverage reports  
-**Code Quality:** ESLint · Prettier · Husky · lint-staged  
+
+**Infrastructure:** Docker · nginx · Linux · PM2 · AWS (EC2, S3) · DigitalOcean · VPS provisioning · SSL · GitHub Actions · CI/CD  
+
+**Monitoring:** Prometheus · Sentry · Pino · OpenAPI · Scalar  
+
+**Testing:** Vitest · Supertest · Playwright · coverage reports  
+
+**Code Quality:** ESLint · Prettier · Husky · lint-staged
 
 ---
 
